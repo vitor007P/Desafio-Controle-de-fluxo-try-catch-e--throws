@@ -16,6 +16,7 @@ Solicitar dois números inteiros via terminal e:
 
 - Se o segundo número for **menor ou igual** ao primeiro:
   - Lançar uma **exceção customizada** chamada `ParametrosInvalidosException` com a mensagem:
-    ```
-    O segundo parâmetro deve ser maior que o primeiro
-    ```
+    
+    
+    "O segundo parâmetro deve ser maior que o primeiro"
+    
