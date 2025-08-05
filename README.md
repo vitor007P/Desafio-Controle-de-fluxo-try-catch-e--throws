@@ -1,4 +1,4 @@
-# Desafio-Controle-defluxo-usando-try-catch-e-throws-pela-1-vez-
+# Desafio-Controle-defluxo-usando-try-catch-e-throws-pela-1ª-vez-
 
 
 Este repositório contém a solução do **Desafio de Controle de Fluxo** proposto pela [Digital Innovation One (DIO)]([https://www.dio.me/](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)).  
